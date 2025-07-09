@@ -56,3 +56,33 @@ heading, paragraph. line break
 
 
 8. <input> – Creates an input field for user data in forms.
+
+
+
+
+📘 Day 2:04-07-2025
+    Friday
+
+
+1. <a> – Creates a hyperlink to another page or URL.
+
+
+2. <img> – Embeds an image in the web page.
+
+
+3. <ul> – Defines an unordered (bulleted) list.
+
+
+4. <ol> – Defines an ordered (numbered) list.
+
+
+5. <li> – Defines a list item inside <ul> or <ol>.
+
+
+6. <div> – Defines a division or section in an HTML document.
+
+
+7. <strong> – Makes text bold and emphasizes importance.
+
+
+8. <input> – Creates an input field for user data in forms.
