@@ -32,7 +32,7 @@ heading, paragraph. line break
    
 
 9.📘 Day 2:04-07-2025
-10. Friday
+   Friday
 
 1. <a> – Creates a hyperlink to another page or URL.
 
@@ -61,7 +61,7 @@ heading, paragraph. line break
 
 
 📘 Day 3:09-07-2025
-    Friday
+    Wednesday
 
 
 1. <a> – Creates a hyperlink to another page or URL.
@@ -86,3 +86,28 @@ heading, paragraph. line break
 
 
 8. <input> – Creates an input field for user data in forms.
+
+Sure! Here's your Day 4 Learning Log with 6 tags:
+
+
+---
+
+📘 Day 4 – 10-07-2025
+   Thursday
+
+1. <header> – Defines the top section of a page, like a logo or title.
+
+
+2. <nav> – Contains navigation links.
+
+
+3. <main> – Represents the main content of the page.
+
+
+4. <section> – Groups related content together.
+
+
+5. <article> – Represents independent content like blog posts.
+
+
+6. <footer> – Defines the bottom section like copyright or links.
