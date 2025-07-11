@@ -111,3 +111,30 @@ Sure! Here's your Day 4 Learning Log with 6 tags:
 
 
 6. <footer> – Defines the bottom section like copyright or links.
+
+
+
+Sure! Here's your Day 5 Learning Log focused only on HTML form-related tags:
+
+
+---
+
+📘 Day 5 – 11-07-2025
+    Friday
+
+1. <form> – Creates a form to collect user input.
+
+
+2. <input> – Allows users to enter data (text, number, etc.).
+
+
+3. <label> – Adds a text label for a form element.
+
+
+4. <textarea> – Allows multi-line text input.
+
+
+5. <select> – Creates a drop-down list.
+
+
+6. <option> – Defines choices inside a drop-down (<select>).
