@@ -138,3 +138,27 @@ Sure! Here's your Day 5 Learning Log focused only on HTML form-related tags:
 
 
 6. <option> – Defines choices inside a drop-down (<select>).
+
+
+Here’s your Day 6 Learning Log focused on Accessibility Basics in HTML:
+
+
+---
+
+📘 Day 6 – 12-07-2025
+   Saturday
+
+   
+1. alt attribute – Provides alternative text for images, helpful for screen readers.
+
+
+2. <label for=""> – Links a label to a specific form input to improve accessibility.
+
+
+3. Proper form structure – Use <form>, <label>, and associated inputs correctly for assistive technologies.
+4. <form>
+      <label for=" ">
+         <input type=" " id=" " name=" ">
+      </label><br>
+      <button type=" "> </button>
+   </form>
