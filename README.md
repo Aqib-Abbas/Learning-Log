@@ -162,3 +162,20 @@ Here’s your Day 6 Learning Log focused on Accessibility Basics in HTML:
       </label><br>
       <button type=" "> </button>
    </form>
+==========================================================================================================================================================
+
+Day 7:  
+16 - 07 - 2025 (Wednesday) 
+Topic: CSS Syntax and Selectors
+
+The general syntax of CSS is: selector { property: value; }
+
+Selectors are used to select HTML elements to apply specific styles. There are three main types: ID, Class, and Element selectors.
+
+→ ID Selector: Targets a unique element. It is written using #, for example: #header.
+
+→ Class Selector: Targets multiple elements with the same class. It is written using ., for example: .box.
+
+→ Element Selector: Directly targets HTML tags such as <h1>, <p>, <div>, etc.
+
+Selectors help us apply different styles to specific parts of the webpage effectively.
