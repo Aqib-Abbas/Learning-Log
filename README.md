@@ -1,5 +1,4 @@
-# htmlDay1
-This is my  first repository
+**LEARNING LOG**
 
 Day 1: 03-07-2025
 Thursday
@@ -179,3 +178,22 @@ Selectors are used to select HTML elements to apply specific styles. There are t
 → Element Selector: Directly targets HTML tags such as <h1>, <p>, <div>, etc.
 
 Selectors help us apply different styles to specific parts of the webpage effectively.
+
+
+Day 8:  
+17 - 07 - 2025 (Thursday)  
+Topic: CSS Colors, Fonts, and Units
+
+In CSS, we use different properties to style text and layout using colors, fonts, and measurement units.
+
+→ Colors: CSS supports color names (red, blue), HEX codes (#ff0000), RGB (rgb(255,0,0)), and HSL formats.
+
+→ Fonts: We use font-family to apply fonts like Arial, Verdana, or Google Fonts. We can also set bold or italic using font-weight and font-style.
+
+→ Units:
+- px (pixels): Fixed-size units.
+- em: Relative to the parent’s font size.
+- rem: Relative to the root element’s font size.
+- % (percent): Relative to the parent container size.
+
+Using the right fonts, colors, and units improves both the *appearance* and *responsiveness* of a web page.
