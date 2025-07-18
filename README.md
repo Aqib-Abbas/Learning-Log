@@ -197,3 +197,21 @@ In CSS, we use different properties to style text and layout using colors, fonts
 - % (percent): Relative to the parent container size.
 
 Using the right fonts, colors, and units improves both the *appearance* and *responsiveness* of a web page.
+
+
+Day 9:  
+18 - 07 - 2025 (Friday)  
+Topic: CSS Box Model
+
+The CSS Box Model describes how every HTML element is structured and spaced in the layout.
+
+It consists of the following parts (from inside out):
+
+→ Content: The actual text or image inside the element.  
+→ Padding: Space between the content and the border (inside the box).  
+→ Border: The edge surrounding the padding and content.  
+→ Margin: Space outside the element that separates it from other elements.
+
+Each part can be styled using CSS properties like margin, padding, border, and width/height.
+
+Understanding the box model is essential for controlling *spacing, **alignment, and **layout design* effectively.
