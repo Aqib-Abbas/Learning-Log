@@ -215,3 +215,23 @@ It consists of the following parts (from inside out):
 Each part can be styled using CSS properties like margin, padding, border, and width/height.
 
 Understanding the box model is essential for controlling *spacing, **alignment, and **layout design* effectively.
+
+
+
+Day 10:  
+19 - 07 - 2025 (Saturday)  
+Topic: CSS Display Types
+
+The `display` property in CSS controls how an element is rendered on the page.
+
+→ block: Takes up the full width available (e.g., <div>, <p>). Starts on a new line.
+
+→ inline: Takes up only as much width as needed (e.g., <span>, <a>). Stays within the line.
+
+→ inline-block: Behaves like inline but allows setting width, height, padding, and margin.
+
+→ flex: Enables a flexible box layout. It allows easy alignment and distribution of items using `display: flex`.
+
+→ grid: Provides a two-dimensional layout system for arranging items in rows and columns using `display: grid`.
+
+Choosing the right display type helps control element behavior and structure the layout properly.
