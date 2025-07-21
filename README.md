@@ -235,3 +235,22 @@ The `display` property in CSS controls how an element is rendered on the page.
 → grid: Provides a two-dimensional layout system for arranging items in rows and columns using `display: grid`.
 
 Choosing the right display type helps control element behavior and structure the layout properly.
+
+
+
+Day 11:  
+21 - 07 - 2025 (Monday)  
+Topic: CSS Flexbox Layout
+
+Flexbox is a one-dimensional layout model used to align and distribute space among items in a container.
+
+To use Flexbox, we set the container’s `display` to `flex`:
+→ display: flex; – enables flexbox on the container.
+
+Main properties for layout control:
+→ justify-content: Aligns items horizontally (e.g., center, space-between, space-around).  
+→ align-items: Aligns items vertically (e.g., center, flex-start, flex-end).  
+→ flex-direction: Sets the direction of the flex items (row, column).  
+→ gap: Adds spacing between items.
+
+Flexbox helps build responsive layouts with clean alignment and spacing, especially for navigation bars and cards.
