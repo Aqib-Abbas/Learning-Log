@@ -254,3 +254,22 @@ Main properties for layout control:
 → gap: Adds spacing between items.
 
 Flexbox helps build responsive layouts with clean alignment and spacing, especially for navigation bars and cards.
+
+
+
+Day 12:  
+22 - 07 - 2025 (Tuesday)  
+Topic: CSS Grid Layout
+
+CSS Grid is a two-dimensional layout system used to arrange items in rows and columns with precision.
+
+To activate Grid, we use: `display: grid;` on the container.
+
+Key properties used in Grid layout:
+→ grid-template-columns: Defines the number and size of columns (e.g., 1fr 1fr for two equal columns).  
+→ grid-template-rows: Defines row heights.  
+→ gap: Sets space between rows and columns.  
+→ grid-column / grid-row: Specifies how many columns or rows an item should span.  
+→ place-items: Shorthand to align items both vertically and horizontally (like `center`, `start`, `end`).
+
+CSS Grid is ideal for creating complex layouts like galleries, dashboards, and structured page sections.
