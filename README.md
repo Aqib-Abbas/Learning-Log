@@ -273,3 +273,23 @@ Key properties used in Grid layout:
 → place-items: Shorthand to align items both vertically and horizontally (like `center`, `start`, `end`).
 
 CSS Grid is ideal for creating complex layouts like galleries, dashboards, and structured page sections.
+
+
+
+Day 13:  
+23 - 07 - 2025 (Wednesday)  
+Topic: Media Queries (Responsive Design)
+
+Media queries allow us to apply different CSS styles based on the device’s screen size or resolution.
+
+Syntax example:  
+@media (max-width: 768px) {  
+ body { font-size: 14px; }  
+}
+
+Key uses of media queries:
+→ Adjust font size, layout, or spacing for mobile devices.  
+→ Create mobile-first designs that scale up for larger screens.  
+→ Use breakpoints like 600px (mobile), 768px (tablet), and 1024px+ (desktop).
+
+Media queries help create responsive websites that look good on all devices, from phones to large screens.
