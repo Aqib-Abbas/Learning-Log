@@ -293,3 +293,32 @@ Key uses of media queries:
 → Use breakpoints like 600px (mobile), 768px (tablet), and 1024px+ (desktop).
 
 Media queries help create responsive websites that look good on all devices, from phones to large screens.
+
+
+
+Day 14:  
+24 - 07 - 2025 (Thursday)  
+Topic: Pseudo-classes and CSS Transitions
+
+→ Pseudo-classes allow us to style elements based on their state or position in the document.
+
+Common pseudo-classes:
+:hover – Applies style when the mouse is over the element.  
+:focus – Applies style when an element (like input) is focused.  
+:first-child / :last-child – Targets the first or last child element.
+
+Example:  
+button:hover { background-color: green; }
+
+→ CSS Transitions allow smooth animation effects when CSS properties change.
+
+Example:  
+div {  
+ transition: all 0.3s ease;  
+ background-color: blue;  
+}  
+div:hover {  
+ background-color: red;  
+}
+
+Transitions and pseudo-classes improve interactivity and visual feedback on web pages.
